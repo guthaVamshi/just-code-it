@@ -1,0 +1,10 @@
+colors / boot strap
+1.text-primary - blue;
+2.text-secondaru - grey
+3.taxt-danger - red;
+4.text - warning = yellow;
+text-succes= green
+
+
+
+/// sourcrupsplash.com
